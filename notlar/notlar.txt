@@ -1,0 +1,7 @@
+Ad: html to JSX
+
+Kimlik: riazxrazor.html-to-jsx
+
+Açıklama: Converts html code to React JSX
+
+hocam bu uzantıyı kullanın isterseniz çok rahat oluyor başka html dosyasını alıp reachte çevirrken çok kolaylık oluyor tek tıkla bütün html kodları jsx formatına çeviriyor
