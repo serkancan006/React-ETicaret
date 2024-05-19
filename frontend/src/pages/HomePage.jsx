@@ -1,6 +1,4 @@
 import React from 'react';
-import Header from '../components/Layout/Header/Header'
-import Footer from '../components/Layout/Footer/Footer'
 import Slider from '../components/Slider/Sliders'
 import Categories from '../components/Categories/Categories';
 import Products from '../components/Products/Products'
@@ -12,7 +10,6 @@ import CampaignSingle from '../components/CampaignSingle/CampaignSingle';
 const HomePage = () => {
     return (
         <React.Fragment>
-            <Header />
             <Slider />
             <Categories />
             <Products />
@@ -20,7 +17,6 @@ const HomePage = () => {
             <Blogs />
             <Brands />
             <CampaignSingle />
-            <Footer />
         </React.Fragment>
     )
 }
